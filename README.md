@@ -54,18 +54,11 @@ Deep learning approach for early detection of cognitive decline from physiologic
 
 A personalized recommendation engine for tourism behavior prediction.
 
-### 🔸 Autonomous Drone for Teknofest (Search, Rescue & Mine Detection)
-
-A fully autonomous drone designed for search-and-rescue and hazard detection missions.
-Features include:
-
-Obstacle avoidance
-
-Navigation and localization
-
-Target detection using computer vision
-
-Mission automation for rescue and mine-detection scenario
+### 🔸 **GPT-Style Transformer Language Model** * (From Scratch)*
+• Developed a decoder-only GPT-style Transformer model from scratch using PyTorch for English text generation.
+• Implemented masked self-attention, Transformer blocks, RoPE positional embeddings, and autoregressive generation.
+• Built and trained a custom BPE tokenizer on the TinyStories dataset for improved text coherence.
+• Applied mixed-precision training, Top-k/Top-p sampling, and evaluation metrics to optimize generation quality and training stability.
 
 ---
 ## GitHub Activity
