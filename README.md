@@ -56,8 +56,11 @@ A personalized recommendation engine for tourism behavior prediction.
 
 ### 🔸 **GPT-Style Transformer Language Model** * (From Scratch)*
 • Developed a decoder-only GPT-style Transformer model from scratch using PyTorch for English text generation.
+
 • Implemented masked self-attention, Transformer blocks, RoPE positional embeddings, and autoregressive generation.
+
 • Built and trained a custom BPE tokenizer on the TinyStories dataset for improved text coherence.
+
 • Applied mixed-precision training, Top-k/Top-p sampling, and evaluation metrics to optimize generation quality and training stability.
 
 ---
